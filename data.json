@@ -1,0 +1,11 @@
+{
+	"people": [
+		{"id": 1, "name": "Alex"},
+		{"id": 2, "name": "Susana"},
+		{"id": 3, "name": "Dan"},
+		{"id": 4, "name": "Mihai"},
+		{"id": 5, "name": "Dimana"},
+		{"id": 6, "name": "Caitlin"},
+		{"id": 7, "name": "Tejas"}
+	]
+}
